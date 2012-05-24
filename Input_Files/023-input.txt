@@ -1,0 +1,8 @@
+login
+admin
+add
+flubber
+5
+logout
+exit
+

@@ -1,0 +1,9 @@
+login
+admin
+buy
+12 angry men
+1
+yes
+logout
+exit
+

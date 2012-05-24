@@ -1,0 +1,8 @@
+login
+admin
+rent
+star wars: rev. of sith
+1
+logout
+exit
+

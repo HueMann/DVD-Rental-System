@@ -1,0 +1,17 @@
+00001 0080 0080 R 000.00 flubber                  
+00002 0011 0011 S 010.00 terminator_2             
+00003 0010 0012 R 000.00 jaws                     
+00004 0010 0010 R 000.00 jaws_2                   
+00005 0024 0024 R 000.00 rambo                    
+00006 0010 0010 R 000.00 rambo_2                  
+00007 0010 0010 R 000.00 rambo_3                  
+00008 0010 0010 R 000.00 rambo_4                  
+00009 0010 0010 R 000.00 star_wars:_phantom_men.  
+00010 0010 0010 R 000.00 star_wars:_att._of_clon. 
+00011 0006 0010 R 000.00 star_wars:_rev._of_sith  
+00012 0000 0000 R 000.00 star_wars:_a_new_hope    
+00013 0001 0001 R 000.00 star_wars:_emp._str._ba. 
+00014 0010 0010 R 000.00 star_wars:_ret._of_jedi  
+00015 0006 0006 S 010.00 12_angry_men             
+00016 0006 0006 S 010.00 a_few_good_men           
+00017 0006 0010 R 000.00 sleuth                   

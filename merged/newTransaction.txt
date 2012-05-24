@@ -1,0 +1,16 @@
+00 LOGOUT_COMMAND            000 l 000000
+06 a_few_good_men            001 s 010.00
+00 LOGOUT_COMMAND            000 l 000000
+04 flubber                   005 r 000000
+00 LOGOUT_COMMAND            000 l 000000
+06 12_angry_men              001 s 010.00
+00 LOGOUT_COMMAND            000 l 000000
+01 sleuth                    001 r 000000
+00 LOGOUT_COMMAND            000 l 000000
+02 rambo                     001 r 000000
+00 LOGOUT_COMMAND            000 l 000000
+01 star_wars:_rev._of_sith   001 r 000000
+00 LOGOUT_COMMAND            000 l 000000
+06 terminator_2              001 s 010.00
+00 LOGOUT_COMMAND            000 l 000000
+00                           000   000.00

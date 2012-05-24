@@ -1,0 +1,9 @@
+login
+admin
+buy
+a few good men
+1
+yes
+logout
+exit
+

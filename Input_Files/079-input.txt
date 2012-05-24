@@ -1,0 +1,9 @@
+login
+standard
+buy
+terminator 2
+1
+yes
+logout
+exit
+

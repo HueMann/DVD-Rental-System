@@ -1,0 +1,8 @@
+login
+standard
+rent
+sleuth
+1
+logout
+exit
+

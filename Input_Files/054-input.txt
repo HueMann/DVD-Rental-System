@@ -1,0 +1,8 @@
+login
+standard
+return
+rambo
+1
+logout
+exit
+
